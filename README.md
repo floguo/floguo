@@ -1,4 +1,4 @@
-## Hi there 👋
+creative technologist in toronto
 
 <!--
 **floguo/floguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
