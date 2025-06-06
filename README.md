@@ -1,4 +1,4 @@
-pushing pixels & pr's at vercel ⊹ ࣪ ˖
+pushing pixels & pr's ⊹ ࣪ ˖
 
 <!--
 **floguo/floguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
